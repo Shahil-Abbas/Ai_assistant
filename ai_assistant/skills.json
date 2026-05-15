@@ -1,0 +1,13 @@
+{
+    "websites": {
+        "youtube": "https://youtube.com",
+        "google": "https://google.com",
+        "github": "https://github.com",
+        "wikipedia": "https://wikipedia.org"
+    },
+
+    "apps": {
+        "notepad": "notepad",
+        "calculator": "calc"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "time": [
+    "what is the time",
+    "tell me the time",
+    "current time"
+  ],
+
+  "date": [
+    "what is today's date",
+    "tell me the date"
+  ],
+
+  "weather": [
+    "how is the weather",
+    "weather today"
+  ],
+
+  "identity": [
+    "who are you",
+    "what is your name",
+    "tell me your name",
+    "introduce yourself",
+    "who made you"
+  ]
+}
